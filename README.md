@@ -5,6 +5,10 @@ Project Goal
 * Apply Regression Analysis and Time Series Analysis
 * Determine variables that impact the death rate due to Covid-19.
 
+Principal Component Analysis
+![image](https://user-images.githubusercontent.com/70190575/190457932-41feba94-3929-4d68-a2c0-30cccec87e5e.png)
+
+
 ![image](https://user-images.githubusercontent.com/70190575/190457580-094b7bad-0cca-4a8b-912a-73d523a18350.png)
 
 ![image](https://user-images.githubusercontent.com/70190575/190457626-0a0ca0ce-42b1-40c8-bb00-719220f5138e.png)
